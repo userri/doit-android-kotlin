@@ -18,3 +18,6 @@
  * 2023년 06월 11일 (일)~ 2023년 06월 13일 (화)
     * 04 코틀린 객체지향 프로그래밍
     * [04-1 클래스와 생성자](https://dreaminsweetpotato.tistory.com/30)
+ * 2023년 06월 13일 (화)
+    * [04-2 클래스를 재사용하는 상속](https://dreaminsweetpotato.tistory.com/31)
+    * [04-3 코틀린의 클래스 종류](https://dreaminsweetpotato.tistory.com/32)
