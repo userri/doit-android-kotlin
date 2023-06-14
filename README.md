@@ -21,3 +21,6 @@
  * 2023년 06월 13일 (화)
     * [04-2 클래스를 재사용하는 상속](https://dreaminsweetpotato.tistory.com/31)
     * [04-3 코틀린의 클래스 종류](https://dreaminsweetpotato.tistory.com/32)
+ * 2023년 06월 14일 (수)
+    * 05 코틀린의 유용한 기법
+    * [05-1 람다 함수와 고차 함수](https://dreaminsweetpotato.tistory.com/manage/posts/33)
