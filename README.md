@@ -26,3 +26,6 @@
     * [05-1 람다 함수와 고차 함수](https://dreaminsweetpotato.tistory.com/manage/posts/33)
  * 2023년 06월 15일 (목)
     * [05-2 널 안정성](https://dreaminsweetpotato.tistory.com/34)
+    * **06 뷰를 이용한 화면 구성**
+    * [06-1 화면을 구성하는 방법](https://dreaminsweetpotato.tistory.com/35)
+    * [06-2 뷰 클래스](https://dreaminsweetpotato.tistory.com/36)
