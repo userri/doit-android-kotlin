@@ -12,8 +12,8 @@
 
 ### 공부기록 
  * 2023년 06월 10일 (토) 
-    * [02 안드로이드 앱의 구조](https://dreaminsweetpotato.tistory.com/28)
-    * [03 코틀린 시작하기](https://dreaminsweetpotato.tistory.com/29)
+    * **[02 안드로이드 앱의 구조](https://dreaminsweetpotato.tistory.com/28)**
+    * **[03 코틀린 시작하기](https://dreaminsweetpotato.tistory.com/29)**
 
  * 2023년 06월 11일 (일)~ 2023년 06월 13일 (화)
     * **04 코틀린 객체지향 프로그래밍**
