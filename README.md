@@ -29,3 +29,8 @@
     * **06 뷰를 이용한 화면 구성**
     * [06-1 화면을 구성하는 방법](https://dreaminsweetpotato.tistory.com/35)
     * [06-2 뷰 클래스](https://dreaminsweetpotato.tistory.com/36)
+ * 2023년 06월 17일 (토)
+    * [06-3 기본적인 뷰 살펴보기](https://dreaminsweetpotato.tistory.com/37)
+    * [06-4 뷰 바인딩](https://dreaminsweetpotato.tistory.com/38)
+    
+    
