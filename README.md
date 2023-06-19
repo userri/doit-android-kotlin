@@ -32,7 +32,7 @@
  * 2023년 06월 17일 (토)
     * [06-3 기본적인 뷰 살펴보기](https://dreaminsweetpotato.tistory.com/37)
     * [06-4 뷰 바인딩](https://dreaminsweetpotato.tistory.com/38)
-    * [06-5 카카오톡 비밀번호 확인 화면 만들기]((킵!))
+    * [06-5 카카오톡 비밀번호 확인 화면 만들기]➡️킵!
  * 2023년 06월 19일 (월)
     * **07 뷰를 배치하는 레이아웃**
     * [07-1 선형으로 배치-LinearLayout](https://dreaminsweetpotato.tistory.com/39)
