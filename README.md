@@ -36,3 +36,5 @@
  * 2023년 06월 19일 (월)
     * **07 뷰를 배치하는 레이아웃**
     * [07-1 선형으로 배치-LinearLayout](https://dreaminsweetpotato.tistory.com/39)
+    * [07-2 상대 위치로 배치-RelativeLayout](https://dreaminsweetpotato.tistory.com/40)
+    
