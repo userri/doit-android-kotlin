@@ -37,4 +37,7 @@
     * **07 뷰를 배치하는 레이아웃**
     * [07-1 선형으로 배치-LinearLayout](https://dreaminsweetpotato.tistory.com/39)
     * [07-2 상대 위치로 배치-RelativeLayout](https://dreaminsweetpotato.tistory.com/40)
+ * 2023년 06월 20일 (화)
+    * [07-3 겹쳐서 배치-FrameLayout](https://dreaminsweetpotato.tistory.com/41)
+    * [07-4 표 형태로 비치-GridLayout](https://dreaminsweetpotato.tistory.com/42)
     
