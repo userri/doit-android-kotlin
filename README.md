@@ -42,3 +42,6 @@
     * [07-4 표 형태로 비치-GridLayout](https://dreaminsweetpotato.tistory.com/42)
     * [07-5 계층 구조로 배치-ConstraintLayout](https://dreaminsweetpotato.tistory.com/43)
     * [07-6 전화 앱의 키패드 화면 만들기]➡️킵!
+    *  **08 사용자 이벤트 처리하기**
+    * [08-1 터치와 키 이벤트](https://dreaminsweetpotato.tistory.com/44)
+    
