@@ -41,7 +41,13 @@
     * [07-3 겹쳐서 배치-FrameLayout](https://dreaminsweetpotato.tistory.com/41)
     * [07-4 표 형태로 비치-GridLayout](https://dreaminsweetpotato.tistory.com/42)
     * [07-5 계층 구조로 배치-ConstraintLayout](https://dreaminsweetpotato.tistory.com/43)
-    * [07-6 전화 앱의 키패드 화면 만들기]➡️킵!
+ * 2023년 06월 22일 (목)
     *  **08 사용자 이벤트 처리하기**
     * [08-1 터치와 키 이벤트](https://dreaminsweetpotato.tistory.com/44)
+ * 2023년 06월 23일 (금)
+    * [08-2 뷰 이벤트](https://dreaminsweetpotato.tistory.com/45)
+    * **09 리소스 활용하기**
+    * [09-1 리소스의 종류와 특징](https://dreaminsweetpotato.tistory.com/46)
+    * [09-2 리소스 조건 설정](https://dreaminsweetpotato.tistory.com/47)
+    * [09-3 폰 크기의 호환성](https://dreaminsweetpotato.tistory.com/48)
     
