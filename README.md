@@ -50,4 +50,9 @@
     * [09-1 리소스의 종류와 특징](https://dreaminsweetpotato.tistory.com/46)
     * [09-2 리소스 조건 설정](https://dreaminsweetpotato.tistory.com/47)
     * [09-3 폰 크기의 호환성](https://dreaminsweetpotato.tistory.com/48)
+ * 2023년 06월 24일 (토)
+    * **10 다이얼로그와 알림 이용하기**]
+    * [10-1 API 레벨 호환성 고려하기](https://dreaminsweetpotato.tistory.com/49)
+    * [10-2 퍼미션 설정하기](https://dreaminsweetpotato.tistory.com/50)
+    * [10-3 다양한 다이얼로그](https://dreaminsweetpotato.tistory.com/51)
     
