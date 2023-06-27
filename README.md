@@ -56,4 +56,7 @@
     * [10-2 퍼미션 설정하기](https://dreaminsweetpotato.tistory.com/50)
     * [10-3 다양한 다이얼로그](https://dreaminsweetpotato.tistory.com/51)
     * [10-4 소리와 진동 알림](https://dreaminsweetpotato.tistory.com/52)
-    
+ * 2023년 06월 27일 (월)
+    * [10-5 알림 띄우기](https://dreaminsweetpotato.tistory.com/53)
+   
+
