@@ -58,5 +58,9 @@
     * [10-4 소리와 진동 알림](https://dreaminsweetpotato.tistory.com/52)
  * 2023년 06월 27일 (월)
     * [10-5 알림 띄우기](https://dreaminsweetpotato.tistory.com/53)
-   
+    * **11 제트팩 라이브러리**
+    * [11-1 제트팩과 androidx 소개](https://dreaminsweetpotato.tistory.com/54)
+ * 2023년 06월 29일 (목) 
+    * [11-2 appcompat 라이브러리 - API 호환성 해결](https://dreaminsweetpotato.tistory.com/55)
+    
 
