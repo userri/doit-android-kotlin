@@ -63,4 +63,6 @@
  * 2023년 06월 29일 (목) 
     * [11-2 appcompat 라이브러리 - API 호환성 해결](https://dreaminsweetpotato.tistory.com/55)
     * [11-3 프래그먼트 - 액티비티처럼 동작하는 뷰](https://dreaminsweetpotato.tistory.com/56)
+    * [11-4 리사이클러 뷰 - 목록 화면 구성](https://dreaminsweetpotato.tistory.com/57)
     
+
