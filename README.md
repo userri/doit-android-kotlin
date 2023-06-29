@@ -65,5 +65,5 @@
     * [11-3 프래그먼트 - 액티비티처럼 동작하는 뷰](https://dreaminsweetpotato.tistory.com/56)
     * [11-4 리사이클러 뷰 - 목록 화면 구성](https://dreaminsweetpotato.tistory.com/57)
     * [11-5 뷰 페이저2 - 스와이프로 넘기는 화면 구성](https://dreaminsweetpotato.tistory.com/58)
-    
+    * [11-6 드로어 레이아웃 - 옆에서 열리는 화면 구성](https://dreaminsweetpotato.tistory.com/59)
 
