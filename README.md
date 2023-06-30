@@ -70,4 +70,5 @@
  * 2023년 06월 30일 (금)
     * **12 머티리얼 라이브러리**
     * [12-1 앱바 사용하기](https://dreaminsweetpotato.tistory.com/60)
+    * [12-2 탭 레이아웃 - 탭 버튼 구성](https://dreaminsweetpotato.tistory.com/61)
     
