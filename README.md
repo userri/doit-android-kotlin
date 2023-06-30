@@ -8,6 +8,7 @@
 
 ### 공부계획
  * 깡샘의 프로그래밍 with 코틀린 책을 6월 20일 까지 완료합니다.
+ * 230630 수정) 7월 10일까지 완료합니다.
 
 
 ### 공부기록 
@@ -42,7 +43,7 @@
     * [07-4 표 형태로 비치-GridLayout](https://dreaminsweetpotato.tistory.com/42)
     * [07-5 계층 구조로 배치-ConstraintLayout](https://dreaminsweetpotato.tistory.com/43)
  * 2023년 06월 22일 (목)
-    *  **08 사용자 이벤트 처리하기**
+    * **08 사용자 이벤트 처리하기**
     * [08-1 터치와 키 이벤트](https://dreaminsweetpotato.tistory.com/44)
  * 2023년 06월 23일 (금)
     * [08-2 뷰 이벤트](https://dreaminsweetpotato.tistory.com/45)
@@ -51,7 +52,7 @@
     * [09-2 리소스 조건 설정](https://dreaminsweetpotato.tistory.com/47)
     * [09-3 폰 크기의 호환성](https://dreaminsweetpotato.tistory.com/48)
  * 2023년 06월 24일 (토)
-    * **10 다이얼로그와 알림 이용하기**]
+    * **10 다이얼로그와 알림 이용하기**
     * [10-1 API 레벨 호환성 고려하기](https://dreaminsweetpotato.tistory.com/49)
     * [10-2 퍼미션 설정하기](https://dreaminsweetpotato.tistory.com/50)
     * [10-3 다양한 다이얼로그](https://dreaminsweetpotato.tistory.com/51)
@@ -66,4 +67,7 @@
     * [11-4 리사이클러 뷰 - 목록 화면 구성](https://dreaminsweetpotato.tistory.com/57)
     * [11-5 뷰 페이저2 - 스와이프로 넘기는 화면 구성](https://dreaminsweetpotato.tistory.com/58)
     * [11-6 드로어 레이아웃 - 옆에서 열리는 화면 구성](https://dreaminsweetpotato.tistory.com/59)
-
+ * 2023년 06월 30일 (금)
+    * **12 머티리얼 라이브러리**
+    * [12-1 앱바 사용하기](https://dreaminsweetpotato.tistory.com/60)
+    
