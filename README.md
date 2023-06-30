@@ -72,4 +72,5 @@
     * [12-1 앱바 사용하기](https://dreaminsweetpotato.tistory.com/60)
     * [12-2 탭 레이아웃 - 탭 버튼 구성](https://dreaminsweetpotato.tistory.com/61)
     * [12-3 내비게이션 뷰 - 드로어 화면 구성](https://dreaminsweetpotato.tistory.com/62)
+    * [12-4 확장된 플로팅 액션 버튼](https://dreaminsweetpotato.tistory.com/63)
     
