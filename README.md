@@ -79,4 +79,5 @@
     * [13-2 액티비티 생명주기](https://dreaminsweetpotato.tistory.com/65)
     * [13-3 액티비티 제어](https://dreaminsweetpotato.tistory.com/66)
     * [13-4 태스크 관리](https://dreaminsweetpotato.tistory.com/66)
+    * [13-5 액티비티 ANR 문제와 코루틴](https://dreaminsweetpotato.tistory.com/67)
     
