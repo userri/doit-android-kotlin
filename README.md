@@ -76,4 +76,5 @@
     * **13 액티비티 컴포넌트**
     * [13-1 인텐트 이해하기](https://dreaminsweetpotato.tistory.com/64)
     * [13-2 액티비티 생명주기](https://dreaminsweetpotato.tistory.com/65)
+    * [13-3 액티비티 제어](https://dreaminsweetpotato.tistory.com/66)
     
