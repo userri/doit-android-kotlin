@@ -75,6 +75,8 @@
     * [12-4 확장된 플로팅 액션 버튼](https://dreaminsweetpotato.tistory.com/63)
     * **13 액티비티 컴포넌트**
     * [13-1 인텐트 이해하기](https://dreaminsweetpotato.tistory.com/64)
+ * 2023년 07월 01일 (토)
     * [13-2 액티비티 생명주기](https://dreaminsweetpotato.tistory.com/65)
     * [13-3 액티비티 제어](https://dreaminsweetpotato.tistory.com/66)
+    * [13-4 태스크 관리](https://dreaminsweetpotato.tistory.com/66)
     
