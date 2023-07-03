@@ -83,4 +83,5 @@
  * 2023년 07월 03일 (월)   
     * **14 브로드캐스트 리시버 컴포넌트**
     * [14-1 브로드캐스트 리시버 이해하기](https://dreaminsweetpotato.tistory.com/68)
+    * [14-2 시스템 상태 파악하기](https://dreaminsweetpotato.tistory.com/69)
     
