@@ -80,4 +80,7 @@
     * [13-3 액티비티 제어](https://dreaminsweetpotato.tistory.com/66)
     * [13-4 태스크 관리](https://dreaminsweetpotato.tistory.com/66)
     * [13-5 액티비티 ANR 문제와 코루틴](https://dreaminsweetpotato.tistory.com/67)
+ * 2023년 07월 03일 (월)   
+    * **14 브로드캐스트 리시버 컴포넌트**
+    * [14-1 브로드캐스트 리시버 이해하기](https://dreaminsweetpotato.tistory.com/68)
     
