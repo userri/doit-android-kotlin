@@ -78,10 +78,13 @@
  * 2023년 07월 01일 (토)
     * [13-2 액티비티 생명주기](https://dreaminsweetpotato.tistory.com/65)
     * [13-3 액티비티 제어](https://dreaminsweetpotato.tistory.com/66)
-    * [13-4 태스크 관리](https://dreaminsweetpotato.tistory.com/66)
-    * [13-5 액티비티 ANR 문제와 코루틴](https://dreaminsweetpotato.tistory.com/67)
+    * [13-4 태스크 관리](https://dreaminsweetpotato.tistory.com/67)
+    * [13-5 액티비티 ANR 문제와 코루틴](https://dreaminsweetpotato.tistory.com/68)
  * 2023년 07월 03일 (월)   
     * **14 브로드캐스트 리시버 컴포넌트**
-    * [14-1 브로드캐스트 리시버 이해하기](https://dreaminsweetpotato.tistory.com/68)
-    * [14-2 시스템 상태 파악하기](https://dreaminsweetpotato.tistory.com/69)
+    * [14-1 브로드캐스트 리시버 이해하기](https://dreaminsweetpotato.tistory.com/70)
+    * [14-2 시스템 상태 파악하기](https://dreaminsweetpotato.tistory.com/71)
+ * 2023년 07월 06일 (목)   
+    * **서비스 컴포넌트**
+    * [15-1 서비스 이해하기](https://dreaminsweetpotato.tistory.com/72)
     
