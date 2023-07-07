@@ -85,6 +85,9 @@
     * [14-1 브로드캐스트 리시버 이해하기](https://dreaminsweetpotato.tistory.com/70)
     * [14-2 시스템 상태 파악하기](https://dreaminsweetpotato.tistory.com/71)
  * 2023년 07월 06일 (목)   
-    * **서비스 컴포넌트**
+    * **15 서비스 컴포넌트**
     * [15-1 서비스 이해하기](https://dreaminsweetpotato.tistory.com/72)
+ * 2023년 07월 07일 (금) 
+    * [15-2 바인딩 서비스](https://dreaminsweetpotato.tistory.com/73)
+    * [15-3 백그라운드 제약](https://dreaminsweetpotato.tistory.com/74)
     
