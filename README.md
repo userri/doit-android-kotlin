@@ -96,4 +96,6 @@
     * [16-1 콘텐츠 프로바이더 이해하기](https://dreaminsweetpotato.tistory.com/76)
  * 2023년 07월 09일 (일)   
     * [16-2 안드로이드 기본 앱과 연동하기](https://dreaminsweetpotato.tistory.com/77)
+    * **17 저장소에 데이터 보관하기**
+    * [17-1 데이터베이스에 보관하기](https://dreaminsweetpotato.tistory.com/78)
     
