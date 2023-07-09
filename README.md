@@ -94,4 +94,6 @@
  * 2023년 07월 08일 (토)
     * **16 콘텐츠 프로바이더 컴포넌트**
     * [16-1 콘텐츠 프로바이더 이해하기](https://dreaminsweetpotato.tistory.com/76)
+ * 2023년 07월 09일 (일)   
+    * [16-2 안드로이드 기본 앱과 연동하기](https://dreaminsweetpotato.tistory.com/77)
     
