@@ -103,5 +103,6 @@
  * 2023년 07월 12일 (수)
     * [17-3 공유된 프리퍼런스에 보관하기](https://dreaminsweetpotato.tistory.com/80)
     * **18 네트워크 프로그래밍**
-    * [18-1 스마트폰 정보 구하기](https://dreaminsweetpotato.tistory.com/89)
+    * [18-1 스마트폰 정보 구하기](https://dreaminsweetpotato.tistory.com/81)
+    * [18-2 HTTP 통신하기](https://dreaminsweetpotato.tistory.com/82)
     
