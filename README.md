@@ -98,4 +98,8 @@
     * [16-2 안드로이드 기본 앱과 연동하기](https://dreaminsweetpotato.tistory.com/77)
     * **17 저장소에 데이터 보관하기**
     * [17-1 데이터베이스에 보관하기](https://dreaminsweetpotato.tistory.com/78)
+ * 2023년 07월 11일 (화) 
+    * [17-2 파일에 보관하기](https://dreaminsweetpotato.tistory.com/79)
+ * 2023년 07월 12일 (수)
+    * [17-3 공유된 프리퍼런스에 보관하기](https://dreaminsweetpotato.tistory.com/80)
     
