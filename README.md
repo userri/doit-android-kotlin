@@ -107,4 +107,6 @@
  * 2023년 07월 13일 (목)    
     * [18-2 HTTP 통신하기](https://dreaminsweetpotato.tistory.com/82)
     * [18-3 이미지 처리하기 - Glide 라이브러리](https://dreaminsweetpotato.tistory.com/83)
+    * **19 위치 정보 활용하기**
+    * [19-1 사용자 위치 얻기](https://dreaminsweetpotato.tistory.com/84)
     
