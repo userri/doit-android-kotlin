@@ -110,4 +110,6 @@
     * **19 위치 정보 활용하기**
     * [19-1 사용자 위치 얻기](https://dreaminsweetpotato.tistory.com/84)
     * [19-2 구글 지도 활용하기](https://dreaminsweetpotato.tistory.com/85)
+    * **20 파이어베이스 연동과 인증 기능**
+    * [20-1 파이어베이스 이해하기](https://dreaminsweetpotato.tistory.com/86)
     
