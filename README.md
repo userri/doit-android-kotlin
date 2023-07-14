@@ -113,4 +113,5 @@
     * **20 파이어베이스 연동과 인증 기능**
     * [20-1 파이어베이스 이해하기](https://dreaminsweetpotato.tistory.com/86)
     * [20-2 파이어베이스 연동하기](https://dreaminsweetpotato.tistory.com/87)
+    * [20-3 인증 기능 이용하기](https://dreaminsweetpotato.tistory.com/88)
     
