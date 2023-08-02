@@ -120,4 +120,4 @@
     * [21-4 파이어베이스 클라우드 메시징](https://dreaminsweetpotato.tistory.com/91)
 * 2023년 08월 02일(수)
     * [06-5 카카오톡 비밀번호 확인 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/92)
-
+    * [07-6 전화 앱의 키패드 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/93)
