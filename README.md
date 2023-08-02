@@ -118,5 +118,6 @@
     * [21-1 클라우드 파이어스토어](https://dreaminsweetpotato.tistory.com/89)
     * [21-2 파이어베이스 스토리지](https://dreaminsweetpotato.tistory.com/90)
     * [21-4 파이어베이스 클라우드 메시징](https://dreaminsweetpotato.tistory.com/91)
-
+* 2023년 08월 02일(수)
+    * [06-5 카카오톡 비밀번호 확인 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/92)
 
