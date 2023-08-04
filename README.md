@@ -122,7 +122,7 @@
     * [06-5 카카오톡 비밀번호 확인 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/92)
     * [07-6 전화 앱의 키패드 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/93)
 * 2023년 08월 04일 (금)
-    * [08-3 시계 앱의 스톱워치 기능 만들기(실습)(https://dreaminsweetpotato.tistory.com/94)
+    * [08-3 시계 앱의 스톱워치 기능 만들기(실습)](https://dreaminsweetpotato.tistory.com/94)
     * [09-4 메신저 앱의 인트로 화면 만들기(실습)](https://dreaminsweetpotato.tistory.com/95)
     * [10-6 카카오톡 알림 만들기(실습)](https://dreaminsweetpotato.tistory.com/96)
     
